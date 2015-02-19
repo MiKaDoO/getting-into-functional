@@ -1,11 +1,11 @@
-# Getting into functional : Materials (Haskell & FSharp)
+# Getting into functional : Materials 
 
 ![Functional programmers](/img/func-programmer.jpg?raw=true "Functional programmers")
 
 ## MOOC & Videos
 
-* [Introduction to Functional Programming by Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x#.VOHNW_mG_Cc) - Haskell
-* [From C# to Haskell by Louis Salin](http://www.ndcvideos.com/#/app/video/2971) - Haskell
+* [Introduction to Functional Programming by Erik Meijer](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x#.VOHNW_mG_Cc) 
+* [From C# to Haskell by Louis Salin](http://www.ndcvideos.com/#/app/video/2971)
 
 ## Books
 
